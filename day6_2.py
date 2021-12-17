@@ -8,15 +8,16 @@ def read_file(file_name) -> list:
     content = [int(x) for x in clean_list[0].split(",")]
     return content
 
-def one_la
+# def one_la
 
 
 def lanternfish_create_children(lanternfish_list, days):
-    lanternfish_list
+    lanternfish_list = []
 
     if days == 0:
         return lanternfish_list
     else:
+        pass
 
 
 
